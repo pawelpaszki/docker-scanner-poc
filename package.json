@@ -1,0 +1,19 @@
+{
+  "name": "npm-update-and-test",
+  "author": "Pawel Paszki",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "~2.2.0",
+    "dockerode": "^2.5.1",
+    "execa": "^0.8.0",
+    "express": "~4.16.1",
+    "mongoose": "^4.8.2"
+  },
+  "main": "application.js",
+  "scripts": {
+    "start": "node application.js"
+  },
+  "license": "MIT"
+}
